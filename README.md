@@ -6,8 +6,8 @@
 - 📫 How to reach me: <b>sharmashubh48660@gmail.com</b>
 
 <h3>Connect with Me:</h3>
-<a href="https://github.com/Shubham00712" target="_blank"><img src="./github.png" alt="Github" width=40/></a>
-<a href="https://www.linkedin.com/in/shubham-sharma-34b91a195" target="_blank"><img src="./linkedin.png" alt="LinkedIn" width=40/></a>
+<a href="https://github.com/Shubham00712" target="_blank"><img src="./images/github.png" alt="Github" width=40/></a>
+<a href="https://www.linkedin.com/in/shubham-sharma-34b91a195" target="_blank"><img src="./images/linkedin.png" alt="LinkedIn" width=40/></a>
 
 <h3>Languages and Tools:</h3>
 <img src="./images/html.png" alt="HTML" width=40/>
