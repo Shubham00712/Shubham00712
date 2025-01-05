@@ -2,7 +2,7 @@
 <h3 align="center">A Full-Stack Developer</h3>
 
 - 🌱 I’m currently working on improving <b>Back-End</b> skills
-- 💬 Ask me about <b>Java</b>,<b>Front-End (HTML, CSS, JS, ReactJS, Redux, NodeJS, ExpressJs)
+- 💬 Ask me about <b>Java</b>,<b>Front-End/Back-End(HTML, CSS, JS, MERN, Redux)</b>
 - 📫 How to reach me: <b>sharmashubh48660@gmail.com</b>
 
 <h3>Connect with Me:</h3>
