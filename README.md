@@ -10,6 +10,7 @@
 <a href="https://www.linkedin.com/in/shubham-sharma-34b91a195" target="_blank"><img src="./images/linkedin.png" alt="LinkedIn" width=40/></a>
 
 <h3>Languages and Tools:</h3>
+<div>
 <img src="./images/html.png" alt="HTML" width=40/>
 <img src="./images/css.png" alt="CSS" width=40/>
 <img src="./images/js.png" alt="JS" width=40/>
@@ -19,7 +20,8 @@
 <img src="./images/vscode.png" alt="VSCode" width=40/>
 <img src="./images/powerbi.png" alt="PowerBI" width=40/>
 <img src="./images/visual.png" alt="VisualStudio" width=40/>
-<!--
+</div>
+  <!--
 **Shubham00712/Shubham00712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
