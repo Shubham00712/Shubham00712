@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I am Shubham Sharma</h1>
-<h3 align="center">A Front-End Developer</h3>
+<h3 align="center">A Full-Stack Developer</h3>
 
-- 🌱 I’m currently working on improving <b>Front-End</b> skills and learning <b>Back-End</b>
-- 💬 Ask me about <b>Java</b>,<b>Front-End (HTML, CSS, JS, ReactJS)
+- 🌱 I’m currently working on improving <b>Back-End</b> skills
+- 💬 Ask me about <b>Java</b>,<b>Front-End (HTML, CSS, JS, ReactJS, Redux, NodeJS, ExpressJs)
 - 📫 How to reach me: <b>sharmashubh48660@gmail.com</b>
 
 <h3>Connect with Me:</h3>
